@@ -11,7 +11,7 @@
         "php": "^7.2",
         "darkaonline/l5-swagger": "^6.0",
         "doctrine/dbal": "~2.3",
-        "dompdf/dompdf": "^0.8.4",
+        "dompdf/dompdf": "^2.0.1",
         "fideloper/proxy": "^4.2",
         "h4cc/wkhtmltoimage-i386": "0.12.x",
         "h4cc/wkhtmltopdf-i386": "0.12.x",
